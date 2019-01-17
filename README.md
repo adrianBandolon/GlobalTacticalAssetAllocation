@@ -8,4 +8,4 @@
 
 + It has been so long since I first wrote this code that I don't know who to credit for writing the ranking functions I used.
 
-+ The `*.rmd` file is self contained. It downloads data from **yahoo finance**, runs them through the ranking functions and outputs a `*.pdf*` file with the top five funds based on their ranking for the past month and for the past three months. Included in the output is the monthly charts for the funds in the top five.
++ The `*.rmd` file is self contained. It downloads data from **yahoo finance**, runs them through the ranking functions and outputs a `*.pdf` file with the top five funds based on their ranking for the past month and for the past three months. Included in the output is the monthly charts for the funds in the top five.
